@@ -1,0 +1,255 @@
+.about-us-content-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #43a4e1;
+  	width: 1440px;
+  	height: 648px;
+}
+.image-39-icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 648px;
+  	object-fit: cover;
+  	opacity: 0.1;
+  	mix-blend-mode: linear-dodge;
+}
+.pln-icon-plus {
+  	font-weight: 600;
+}
+.bersama-induk-perusahaan {
+  	font-weight: 300;
+  	color: #000;
+}
+.description-about2 {
+  	position: absolute;
+  	top: 165px;
+  	left: 174px;
+  	line-height: 22px;
+  	text-transform: capitalize;
+  	display: inline-block;
+  	width: 1094px;
+  	text-shadow: 1px 0 0 rgba(68, 64, 64, 0.5), 0 1px 0 rgba(68, 64, 64, 0.5), -1px 0 0 rgba(68, 64, 64, 0.5), 0 -1px 0 rgba(68, 64, 64, 0.5);
+}
+.picture-mask-icon {
+  	position: absolute;
+  	top: 374px;
+  	left: 239px;
+  	width: 964px;
+  	height: 361px;
+  	object-fit: contain;
+}
+.about-us {
+  	position: absolute;
+  	top: 0px;
+  	left: 76px;
+  	display: inline-block;
+  	width: 254px;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.digital-platform {
+  	position: absolute;
+  	top: 84px;
+  	left: 0px;
+  	font-size: 15px;
+  	line-height: 22px;
+  	color: #fff;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.part-title-about-us {
+  	position: absolute;
+  	top: 30px;
+  	left: 516px;
+  	width: 407px;
+  	height: 106px;
+  	text-align: center;
+  	font-size: 44px;
+  	color: #191619;
+}
+.about-us-content {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 735px;
+}
+.about {
+  	position: absolute;
+  	top: 1673px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 735px;
+}
+.rect-text-child {
+	position: absolute;
+	top: 0px;
+	left: 180px;
+	border-radius: 5px;
+	background-color: #aee1dc;
+	width: 336px;
+	height: 35px;
+}
+.rect-text-item {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	border-radius: 5px;
+	background-color: #aee1dc;
+	width: 115px;
+	height: 35px;
+}
+.rect-text {
+	position: relative;
+    left: 466.9px;
+    top: 783.08px;
+    width: 516px;
+    height: 35px;
+}
+.identifikasi-kebutuhan-teknologi {
+  	position: absolute;
+  	top: 86px;
+  	left: 128px;
+}
+.menerangi-masa-depan {
+  	margin: 0;
+}
+.span {
+  	color: #000;
+}
+.inovasi {
+  	color: #fff;
+}
+.dan {
+  	color: #2f3f72;
+}
+
+.menerangi-masa-depan-container {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	font-size: 32px;
+  	font-weight: 800;
+  	color: #2f3f72;
+}
+.mulai {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	font-weight: 800;
+}
+.click-survey {
+  	position: absolute;
+  	top: 120.08px;
+  	left: 267.9px;
+  	width: 42px;
+  	height: 16px;
+  	font-size: 13px;
+  	color: #fff;
+}
+.tagline-and-survey {
+  	position: absolute;
+  	top: 737px;
+  	left: 433px;
+  	width: 577px;
+  	height: 136.1px;
+  	text-align: center;
+  	font-size: 18px;
+  	color: #000;
+}
+.contacts {
+  	position: absolute;
+  	top: 0px;
+  	left: 186px;
+  	cursor: pointer;
+}
+.product {
+  	position: absolute;
+  	top: 0px;
+  	left: 86px;
+  	cursor: pointer;
+}
+.home {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+}
+.image-40-icon {
+  	position: absolute;
+  	top: 207px;
+  	left: 435px;
+  	width: 504px;
+  	height: 295px;
+  	object-fit: cover;
+  	mix-blend-mode: multiply;
+}
+.top-taskbar-menu {
+  	position: absolute;
+  	top: 40px;
+  	left: 56px;
+  	width: 939px;
+  	height: 502px;
+  	text-align: left;
+  	font-size: 14px;
+  	color: #191619;
+}
+.img-page-survey {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 5px;
+  	width: 1440px;
+  	height: 580px;
+  	object-fit: cover;
+}
+.description-about1 {
+  	position: absolute;
+  	top: 242px;
+  	left: 310px;
+  	text-transform: capitalize;
+  	font-weight: 800;
+  	display: inline-block;
+  	width: 824px;
+  	text-shadow: 1px 0 0 rgba(68, 64, 64, 0.5), 0 1px 0 rgba(68, 64, 64, 0.5), -1px 0 0 rgba(68, 64, 64, 0.5), 0 -1px 0 rgba(68, 64, 64, 0.5);
+}
+.connect-your-digital-container {
+  	position: absolute;
+  	top: 39px;
+  	left: 380px;
+  	font-size: 64px;
+  	font-weight: 800;
+  	color: #fff;
+  	text-align: center;
+}
+.circled-play-icon {
+  	position: absolute;
+  	top: 377px;
+  	left: 671px;
+  	width: 100px;
+  	height: 100px;
+  	object-fit: cover;
+  	cursor: pointer;
+	opacity: 0.7; /* 70% opacity */
+	mix-blend-mode: multiply;
+}
+.aboutvideo {
+  	position: absolute;
+  	top: 998px;
+  	left: -1px;
+  	width: 1440px;
+  	height: 580px;
+  	color: #fcfcfc;
+  	font-family: Inter;
+}
+.cover {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 2444px;
+  	text-align: justify;
+  	font-size: 20px;
+  	color: #d42f34;
+  	font-family: 'Plus Jakarta Sans';
+}
+

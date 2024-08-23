@@ -1,0 +1,95 @@
+.contacts {
+    position: absolute;
+    top: 23px;
+    left: 187px;
+    cursor: pointer;
+}
+.product {
+    position: absolute;
+    top: 23px;
+    left: 86px;
+    cursor: pointer;
+}
+.home {
+    position: absolute;
+    top: 23px;
+    left: 0px;
+}
+.image-40-icon {
+    position: absolute;
+    top: 0px;
+    left: 596px;
+    width: 136px;
+    height: 63px;
+    object-fit: cover;
+    mix-blend-mode: multiply;
+}
+.top-taksbar-menu {
+    position: absolute;
+    top: 17px;
+    left: 56px;
+    width: 732px;
+    height: 63px;
+    font-size: 14px;
+    color: #191619;
+}
+.connectivity {
+    position: absolute;
+    top: 101px;
+    left: 599px;
+    backdrop-filter: blur(55px);
+    text-shadow: 10px 0 0 #fcfcfc, 0 10px 0 #fcfcfc, -10px 0 0 #fcfcfc, 0 -10px 0 #fcfcfc;
+}
+.ip-vpn-vsat1 {
+    position: absolute;
+    top: 161px;
+    left: 618px;
+}
+.ip-vpn-vsat-adalah {
+    position: absolute;
+    top: 834px;
+    left: 44px;
+    display: inline-block;
+    width: 1294px;
+}
+.spesifikasi-dan-fitur {
+    margin: 0;
+}
+.menggunakan-frekuensi-satelit {
+    margin-bottom: 0px;
+}
+.menggunakan-perangkat-satelit {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 43px;
+}
+.spesifikasi-dan-fitur-container {
+    position: absolute;
+    top: 944px;
+    left: 44px;
+    display: inline-block;
+    width: 1297px;
+}
+.image-64-icon {
+    position: absolute;
+    top: 227px;
+    left: 305px;
+    width: 829px;
+    height: 522px;
+    object-fit: cover;
+    display: inline-block;
+    border: 2px solid #000000; /* Warna dan ketebalan border */
+    padding: 10px; /* Ruang antara border dan gambar */
+}
+.ip-vpn-vsat {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1693px;
+    text-align: left;
+    font-size: 32px;
+    color: #000;
+    font-family: 'Plus Jakarta Sans';
+}
+

@@ -1,0 +1,105 @@
+.contacts {
+    position: absolute;
+    top: 17px;
+    left: 187px;
+    cursor: pointer;
+}
+.product {
+    position: absolute;
+    top: 17px;
+    left: 86px;
+}
+.home {
+    position: absolute;
+    top: 17px;
+    left: 0px;
+}
+.image-40-icon {
+    position: absolute;
+    top: 0px;
+    left: 596px;
+    width: 136px;
+    height: 63px;
+    object-fit: cover;
+    mix-blend-mode: multiply;
+}
+.top-taksbar-menu {
+    position: absolute;
+    top: 23px;
+    left: 56px;
+    width: 732px;
+    height: 63px;
+    font-size: 14px;
+    color: #191619;
+}
+.connectivity {
+    position: absolute;
+    top: 101px;
+    left: 599px;
+    backdrop-filter: blur(55px);
+    text-shadow: 10px 0 0 #fcfcfc, 0 10px 0 #fcfcfc, -10px 0 0 #fcfcfc, 0 -10px 0 #fcfcfc;
+}
+.ip-transit1 {
+    position: absolute;
+    top: 161px;
+    left: 662px;
+}
+.solusi-interkoneksi-traffic {
+    margin: 0;
+    white-space: pre-wrap;
+}
+.border-gateway-protocol {
+    margin: 0;
+}
+.solusi-interkoneksi-traffic-container {
+    position: absolute;
+    top: 574px;
+    left: 44px;
+    display: inline-block;
+    width: 1294px;
+}
+.pilihan-full-internet-routing {
+    margin-bottom: 0px;
+}
+.interkoneksi-menggunakan-dynam {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 43px;
+}
+.spesifikasi-dan-fitur-container {
+    position: absolute;
+    top: 974px;
+    left: 44px;
+    display: inline-block;
+    width: 1297px;
+}
+.layanan-produk-layanan-container {
+    position: absolute;
+    top: 734px;
+    left: 42px;
+    display: inline-block;
+    width: 1297px;
+}
+.image-63-icon {
+    position: absolute;
+    top: 243px;
+    left: 521px;
+    width: 398px;
+    height: 289px;
+    object-fit: cover;
+    display: inline-block;
+    border: 2px solid #000000; /* Warna dan ketebalan border */
+    padding: 10px; /* Ruang antara border dan gambar */
+}
+.ip-transit {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1693px;
+    text-align: left;
+    font-size: 32px;
+    color: #000;
+    font-family: 'Plus Jakarta Sans';
+}
+

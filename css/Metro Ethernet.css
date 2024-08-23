@@ -1,0 +1,96 @@
+.contacts {
+    position: absolute;
+    top: 22px;
+    left: 187px;
+    cursor: pointer;
+}
+.product {
+    position: absolute;
+    top: 22px;
+    left: 86px;
+    cursor: pointer;
+}
+.home {
+    position: absolute;
+    top: 22px;
+    left: 0px;
+    cursor: pointer;
+}
+.image-40-icon {
+    position: absolute;
+    top: 0px;
+    left: 596px;
+    width: 136px;
+    height: 63px;
+    object-fit: cover;
+    mix-blend-mode: multiply;
+}
+.top-taksbar-menu {
+    position: absolute;
+    top: 18px;
+    left: 56px;
+    width: 732px;
+    height: 63px;
+    font-size: 14px;
+    color: #191619;
+}
+.connectivity {
+    position: absolute;
+    top: 101px;
+    left: 599px;
+    backdrop-filter: blur(55px);
+    text-shadow: 10px 0 0 #fcfcfc, 0 10px 0 #fcfcfc, -10px 0 0 #fcfcfc, 0 -10px 0 #fcfcfc;
+}
+.metro-ethernet1 {
+    position: absolute;
+    top: 161px;
+    left: 606px;
+}
+.deskripsi {
+    margin: 0;
+}
+.perusahaan-yang-membutuhkan {
+    margin-bottom: 0px;
+}
+.perusahaan-yang-membutuhkan-ko {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 43px;
+}
+.deskripsi-layanan-metronet-container {
+    position: absolute;
+    top: 574px;
+    left: 44px;
+    display: inline-block;
+    width: 1294px;
+}
+.spesifikasi-dan-fitur-container {
+    position: absolute;
+    top: 1070px;
+    left: 44px;
+    display: inline-block;
+    width: 1297px;
+}
+.image-59-icon {
+    position: absolute;
+    top: 221px;
+    left: 380px;
+    width: 680px;
+    height: 311px;
+    object-fit: cover;
+    display: inline-block;
+    border: 2px solid #000000; /* Warna dan ketebalan border */
+    padding: 10px; /* Ruang antara border dan gambar */
+}
+.metro-ethernet {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1693px;
+    text-align: left;
+    font-size: 32px;
+    color: #000;
+    font-family: 'Plus Jakarta Sans';
+}
+

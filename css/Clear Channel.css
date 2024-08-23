@@ -1,0 +1,93 @@
+.contacts {
+    position: absolute;
+    top: 31px;
+    left: 187px;
+    cursor: pointer;
+}
+.product {
+    position: absolute;
+    top: 31px;
+    left: 86px;
+    cursor: pointer;
+}
+.home {
+    position: absolute;
+    top: 31px;
+    left: 0px;
+    cursor: pointer;
+}
+.image-40-icon {
+    position: absolute;
+    top: 0px;
+    left: 596px;
+    width: 136px;
+    height: 63px;
+    object-fit: cover;
+    mix-blend-mode: multiply;
+}
+.top-taksbar-menu {
+    position: absolute;
+    top: 9px;
+    left: 56px;
+    width: 732px;
+    height: 63px;
+    font-size: 14px;
+    color: #191619;
+}
+.connectivity {
+    position: absolute;
+    top: 101px;
+    left: 599px;
+    backdrop-filter: blur(55px);
+    text-shadow: 10px 0 0 #fcfcfc, 0 10px 0 #fcfcfc, -10px 0 0 #fcfcfc, 0 -10px 0 #fcfcfc;
+}
+.clear-channel1 {
+    position: absolute;
+    top: 161px;
+    left: 611px;
+}
+.deskripsi {
+    margin: 0;
+}
+.deskripsi-dengan-layanan-container {
+    position: absolute;
+    top: 676px;
+    left: 131px;
+    display: inline-block;
+    width: 1124px;
+}
+.aman-jaringan-antar {
+    margin-bottom: 0px;
+}
+.aman-jaringan-antar-lokasi-m {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 43px;
+}
+.keunggulan-aman-container {
+    position: absolute;
+    top: 1071px;
+    left: 131px;
+    display: inline-block;
+    width: 1120px;
+}
+.image-60-icon {
+    position: absolute;
+    top: 221px;
+    left: 379px;
+    width: 682px;
+    height: 419px;
+    object-fit: cover;
+}
+.clear-channel {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1693px;
+    text-align: left;
+    font-size: 32px;
+    color: #000;
+    font-family: 'Plus Jakarta Sans';
+}
+
